@@ -1,10 +1,10 @@
 html {
   font-size: 10px;
-  font-family: "Yuji Mai" , sans-serif;
 }
 
 h1 {
-  font-size: 40px;
+  font-family: "Yuji Mai" , sans-serif;
+  font-size: 38px;
   text-align: center;
   margin: 0;
   padding: 20px 0;
@@ -27,7 +27,7 @@ html {
 }
 
 body {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   background-color: #FFA319;
   padding: 0 20px 20px 20px;
